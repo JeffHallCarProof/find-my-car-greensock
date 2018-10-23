@@ -1,0 +1,56 @@
+body {
+	background-color: #333;
+	color: #fff;
+}
+
+hr {
+	border-color: #fff;
+}
+
+.logo {
+	width: 150px;
+}
+
+.gsap-btn {
+	background-color: #73b102;
+	color: #fff;
+}
+
+.gsap-btn:hover,
+.gsap-btn:active,
+.gsap-btn:focus {
+	background-color: #88ce02;
+}
+
+.media-body {
+	color: #333;
+}
+
+.card-element {
+	opacity: 0;
+	visibility: hidden;
+}
+.box {
+    width:50px;
+    height:50px;
+    position:relative;
+    border-radius:6px;
+    margin-top:4px;
+    display:inline-block;
+    line-height:50px;
+    text-align:center;
+    color:#333;
+    
+  }
+  
+  .green{
+    background-color:#6fb936;
+  }
+  
+  .orange {
+    background-color:#f38630;
+  }
+  .grey {
+    background-color:#989898;
+  }
+
